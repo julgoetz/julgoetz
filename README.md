@@ -1,9 +1,10 @@
 <div id="header" align="center">
-  <img src="https://github.com/julgoetz/julgoetz/assets/133923466/69dacc08-cbfa-468b-b8bf-bccb0e98d51a" width="100"/>  
+  <img src="https://github.com/julgoetz/julgoetz/assets/133923466/552690e2-c508-4b05-9f4f-642d361f3ba4" width="100"/>  
 </div>
 
 
 <div id="badges"align="center">
+
   <a href="linkedin.com/in/julian-götz-74a151273">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>  
