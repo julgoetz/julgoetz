@@ -1,6 +1,7 @@
 <div id="header" align="center">
-  <img src="file:///C:/Users/Julian/Documents/Projekt_LuminAi/robo.png" width="100"/>  
+  <img src="https://github.com/julgoetz/julgoetz/assets/133923466/69dacc08-cbfa-468b-b8bf-bccb0e98d51a" width="100"/>  
 </div>
+
 
 <div id="badges"align="center">
   <a href="linkedin.com/in/julian-götz-74a151273">
@@ -11,6 +12,7 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=julgoetz&style=flat-square&color=blue" alt=""/>
 </div>
+
 
 
 
