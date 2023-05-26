@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>  
+  <img src="file:///C:/Users/Julian/Documents/Projekt_LuminAi/robo.png" width="100"/>  
 </div>
 
 <div id="badges"align="center">
@@ -17,6 +17,10 @@
 # Hello there! 👋
 
 Happy that you found my site.
+
+---
+
+### :man_technologist: About Me :
 Still learning, git happens. So feel free to contact me, if you find any bugs.
 
 ---
