@@ -5,7 +5,7 @@
 
 <div id="badges"align="center">
 
-  <a href="linkedin.com/in/julian-götz-74a151273">
+  <a href="https://www.linkedin.com/in/julian-g%C3%B6tz-74a151273/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>  
 </div>
