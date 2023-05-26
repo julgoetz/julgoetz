@@ -17,6 +17,7 @@
 # Hello there! 👋
 
 Happy that you found my site.
+Still learning, git happens. So feel free to contact me, if you find any bugs.
 
 ---
 
