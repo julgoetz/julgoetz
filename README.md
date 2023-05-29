@@ -1,6 +1,7 @@
 <div id="header" align="center">
-  <img src="https://github.com/julgoetz/julgoetz/assets/133923466/552690e2-c508-4b05-9f4f-642d361f3ba4" width="100"/>  
+  <img src="https://github.com/julgoetz/julgoetz/assets/133923466/1f832cfb-fb2e-410f-99a1-3f600c67e0bd" width="100"/>  
 </div>
+
 
 
 <div id="badges"align="center">
