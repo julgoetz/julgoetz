@@ -25,7 +25,11 @@
 
 # Hello there! 👋
 
+
 Happy that you found my site.
+
+Drink some ☕ and make yourself comfortable 💺!
+
 
 ---
 
