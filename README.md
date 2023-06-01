@@ -37,6 +37,7 @@ Still learning, git happens. So feel free to contact me per mail, if you find an
 
 ### :point_down: Current project :
 Currently immersed in the development of an open-source Android app that seamlessly integrates an AI chatbot. Its should provide the posibility ofeffortless transitions between multiple common language models. Stay tuned as the first prototype will soonbe available in my GitHub repository.
+
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
