@@ -25,7 +25,8 @@ Happy that you found my site.
 ---
 
 ### :man_technologist: About Me :
-Still learning, git happens. So feel free to contact me, if you find any bugs.
+I'm Julian, a student from Germany.
+Still learning, git happens. So feel free to contact me per mail, if you find any bugs.
 
 ---
 
