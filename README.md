@@ -41,7 +41,7 @@ Still learning, git happens. So feel free to contact me per mail, if you find an
 ---
 
 ### :point_down: Current project :
-Currently immersed in the development of an open-source Android app that seamlessly integrates an AI-chatbot. It should provide the posibility of effortless transitions between multiple common language models. Stay tuned as the first prototype will   soon be available in my GitHub repository.
+Currently immersed in the development of an open-source Android app that seamlessly integrates an AI-chatbot. It should provide the posibility of effortless transitions between multiple common Ai-language-models. Stay tuned as the first prototype will   soon be available in my GitHub repository.
 
 <img src="https://github.com/julgoetz/julgoetz/assets/133923466/09f87e65-90bc-40c9-8de5-9039713ec6f4" width="100"/>
 
