@@ -9,10 +9,14 @@
   <a href="https://www.linkedin.com/in/julian-g%C3%B6tz-74a151273/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>  
+ 
 </div>
 
+
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=julgoetz&style=flat-square&color=blue" alt=""/>
+  <img alt="Github profile views " src="https://komarev.com/ghpvc/?username=julgoetz&style=flat-square&color=blue"/>
+  <img alt="GitHub followers" src="https://img.shields.io/github/followers/julgoetz?style=social">
+  <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/julgoetz?style=social">
 </div>
 
 
@@ -29,6 +33,10 @@ I'm Julian, a student from Germany.
 
 Still learning, git happens. So feel free to contact me per mail, if you find any bugs.
 
+---
+
+### :point_down: Current project :
+Currently immersed in the development of an open-source Android app that seamlessly integrates an AI chatbot. Its should provide the posibility ofeffortless transitions between multiple common language models. Stay tuned as the first prototype will soonbe available in my GitHub repository.
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
