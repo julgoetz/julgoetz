@@ -36,7 +36,7 @@ Make yourself comfortable 💺 and drink some ☕!
 ### :man_technologist: About Me :
 I'm Julian, a student from Germany.
 
-Still learning, git happens. So feel free to contact me per email, if you find any bugs.
+Still learning, git happens. So feel free to contact me, if you find any bugs.
 
 ---
 
