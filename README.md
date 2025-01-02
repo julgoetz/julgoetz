@@ -28,7 +28,6 @@
 
 Happy that you found my site.
 
-Make yourself comfortable 💺 and drink some ☕!
 
 
 ---
